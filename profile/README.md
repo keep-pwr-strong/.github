@@ -21,6 +21,6 @@ Whatever your idea or project, we are happy to support you. feel free to submit 
 - [PWR Chain SDKs](https://github.com/orgs/pwrlabs/repositories)
 
 <br />
-<div align="center" style="width:35%; height:35%; display:flex; justify-content:center; align-items:center;">
-    <img src="../resources/img/keep-pwr-strong.jpeg" >
+<div align="center">
+    <img src="../resources/img/keep-pwr-strong.jpeg" width="30%" >
 <div align="center">
