@@ -22,5 +22,5 @@ Whatever your idea or project, we are happy to support you. feel free to submit 
 
 <br />
 <div align="center">
-    <img src="../resources/img/keep-pwr-strong.jpeg" width="30%" >
+    <img src="../resources/img/keep-pwr-strong.jpg" width="30%" >
 <div align="center">
