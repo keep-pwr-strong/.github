@@ -23,7 +23,6 @@ Whatever your idea or project, we are happy to support you. feel free to submit 
 - [PWR Chain Docs](https://docs.pwrlabs.io/)
 - [PWR Chain SDKs](https://github.com/orgs/pwrlabs/repositories)
 
-<br />
 <div align="center">
     <img src="../resources/img/keep-pwr-strong.jpg" width="35%" >
 <div align="center">
