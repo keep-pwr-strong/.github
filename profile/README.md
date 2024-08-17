@@ -8,8 +8,11 @@
 </div> -->
 
 **Keep PWR Strong** is the builders and developers place. Our goal is to kickstart exciting projects and to work hands in hands with the community.
-
 We believe this collaboration will help us to understand better the needs of the builders of our ecosystem.
+
+PWR Chain is a groundbreaking blockchain infrastructure designed to make blockchain technology accessible and beneficial for everyone, regardless of their technical expertise.
+
+PWR Chain's unique architecture allows for the creation and deployment of virtual machines (VMs) that operate independently on top of the base layer.
 
 Whatever your idea or project, we are happy to support you. feel free to submit yours [here](https://github.com/orgs/keep-pwr-strong/discussions/new/choose).
 
